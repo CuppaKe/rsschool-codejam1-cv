@@ -1,2 +1,18 @@
 @import "reset.css";
 @import "https://fonts.googleapis.com/css?family=Noto+Sans";
+
+* {
+	box-sizing: border-box;
+	margin: 16px, 15px;
+  padding: 5px;
+	color: "black"; 
+	font-size: 18px;
+	font-family: "Noto Sans", sans-serif;
+}
+
+body {
+	align-content: center;
+	width: 1024px;
+	margin: 0 auto;
+	background-color: #6a8585;		
+}

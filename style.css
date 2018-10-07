@@ -27,8 +27,9 @@ footer {
   background-color: #c1d1d4;		
 }
 
-#photo, #top {
-	display: inline-block;
+#photo,
+#top {
+  display: inline-block;
 }
 
 h1 {
